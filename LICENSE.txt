@@ -1,5 +1,5 @@
 The MIT License (MIT)
-Copyright 2020 Jayrome Vergara
+Copyright (c) 2020 Jayrome Vergara
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
