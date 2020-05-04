@@ -13,7 +13,7 @@ function get_git_status() {
   fi
 }
 
-PROMPT="$ret_status%{$fg_bold[magenta]%}%c%{$reset_color%}%{$reset_color%} "
+PROMPT="$ret_status%{$fg_bold[cyan]%}%c%{$reset_color%}%{$reset_color%} "
 RPROMPT='$(git_prompt_info)$(get_git_status)'
 
 # Git info
